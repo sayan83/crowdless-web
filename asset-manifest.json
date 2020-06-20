@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65f88cfd.chunk.css",
+    "main.js": "/static/js/main.a0d78b49.chunk.js",
+    "main.js.map": "/static/js/main.a0d78b49.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e065001.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e065001.js.map",
+    "static/js/2.8e0b1a94.chunk.js": "/static/js/2.8e0b1a94.chunk.js",
+    "static/js/2.8e0b1a94.chunk.js.map": "/static/js/2.8e0b1a94.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1ef473ba3bbcc97aab895eece7493014.js": "/precache-manifest.1ef473ba3bbcc97aab895eece7493014.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.65f88cfd.chunk.css.map": "/static/css/main.65f88cfd.chunk.css.map",
+    "static/js/2.8e0b1a94.chunk.js.LICENSE.txt": "/static/js/2.8e0b1a94.chunk.js.LICENSE.txt",
+    "static/media/aboutUs.css": "/static/media/AboutUs.33a84d60.svg",
+    "static/media/whyRegister.css": "/static/media/RegisterYourStore.9ce940bd.svg",
+    "static/media/contactUs.css": "/static/media/contactus.2f453d94.png",
+    "static/media/footcounticon.svg": "/static/media/footcounticon.15a459d0.svg",
+    "static/media/landingScreen.css": "/static/media/landingscreen2.da55f8a6.svg",
+    "static/media/liveCount.svg": "/static/media/liveCount.faf4ced4.svg",
+    "static/media/moreCustomer.svg": "/static/media/moreCustomer.ce260a92.svg",
+    "static/media/moreEfficient.png": "/static/media/moreEfficient.15e09a8e.png",
+    "static/media/moreProfit.png": "/static/media/moreProfit.7217ee21.png",
+    "static/media/search-icon.svg": "/static/media/search-icon.4eb00e91.svg",
+    "static/media/serviceProvided.css": "/static/media/services.9a3e4ea7.png",
+    "static/media/storeContact.svg": "/static/media/storeContact.387e7d82.svg",
+    "static/media/storeType.svg": "/static/media/storeType.706cebe0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e065001.js",
+    "static/js/2.8e0b1a94.chunk.js",
+    "static/css/main.65f88cfd.chunk.css",
+    "static/js/main.a0d78b49.chunk.js"
+  ]
+}
